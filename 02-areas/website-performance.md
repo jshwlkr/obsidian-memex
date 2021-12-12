@@ -1,5 +1,5 @@
 ---
 title: Website performance
-tags: performance
+tags: web-performance
 ---
 
